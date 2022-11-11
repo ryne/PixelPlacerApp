@@ -1,7 +1,11 @@
-# PixelPlacerApp
+# PixelPlacer
 Just another totally useful React app :)
 
-Build with ```yarn``` and then ```yarn dev``` to start it.
+[View Online @ Netlify](https://pixelplacer.netlify.app/)
+
+```yarn``` BUILD IT.
+
+```yarn dev``` START IT.
 
 Click anywhere to reveal a pixel. (Attempt to) click that pixel again to remove it. Pixel history is tracked so you can undo/redo pixels at will.
 
