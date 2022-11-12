@@ -93,7 +93,7 @@ function App() {
       >
         {listTargets}
       </div>
-      <div className="fixed font-bold rounded-lg -bottom-3 left-1/2 -translate-x-1/2 z-10 bg-slate-900 opacity-70 px-8 py-3 pb-6">
+      <div className="fixed flex justify-center font-bold rounded-lg -bottom-3 left-1/2 -translate-x-1/2 z-10 bg-slate-900 opacity-70 px-8 py-3 pb-6">
         <button
           className="text-lg uppercase rounded-lg bg-red-500 hover:bg-red-600 border-b-2 active:bg-red-700 active:border-b active:translate-y-[1px] border border-red-800 text-sm px-4 py-2 mr-2 transition-colors ease-in-out duration-50 cursor-pointer disabled:opacity-30 disabled:cursor-not-allowed disabled:active:bg-red-500 disabled:hover:bg-red-500 disabled:active:translate-y-[0] disabled:border-b-2"
           key="undo"
